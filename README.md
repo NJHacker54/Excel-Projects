@@ -8,6 +8,7 @@
 This project demonstrates end-to-end financial modeling skills by constructing a fully linked 3-statement model. It enables users to analyze company performance, forecast future financials, and derive valuation insights.
 
 ---
+< a href = "https://github.com/NJHacker54/Excel-Projects/blob/main/FMVA.xlsx"</a>
 
 ## ⚙️ Key Features
 - 🔗 Fully integrated **3-statement model**
