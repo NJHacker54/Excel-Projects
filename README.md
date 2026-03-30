@@ -8,14 +8,24 @@
 This project demonstrates end-to-end financial modeling skills by constructing a fully linked 3-statement model. It enables users to analyze company performance, forecast future financials, and derive valuation insights.
 
 ---
-< a href = "https://github.com/NJHacker54/Excel-Projects/blob/main/FMVA.xlsx"</a>
+- <a href= "https://github.com/NJHacker54/Excel-Projects/blob/main/FMVA.xlsx">Project file</a>
 
 ## ⚙️ Key Features
 - 🔗 Fully integrated **3-statement model**
 - 📈 Dynamic **revenue & expense forecasting**
 - 💰 Automated **cash flow projections**
 - 📊 Scenario & sensitivity analysis
-- 📉 Clean and structured Excel dashboard
+
+
+
+![FMVA1](https://github.com/user-attachments/assets/1ad294b8-ac3e-4998-baef-eccfa651defb)
+![FMVA 2](https://github.com/user-attachments/assets/0dc547e8-a8cc-4d7d-b29a-b5f8ec6889f5)
+![FMVA3](https://github.com/user-attachments/assets/58fc200f-e8ae-431d-8c40-29d9ddb4118d)
+![FMVA4](https://github.com/user-attachments/assets/8606110a-bc2e-4fd6-8799-d9dd5a6b2e77)
+
+
+
+
 
 ---
 
@@ -43,14 +53,6 @@ A robust financial model capable of:
 
 ---
 
-## 💡 Why This Project Matters
-This project reflects strong **analytical thinking, financial acumen, and Excel engineering skills**, aligning with roles in:
-- Investment Banking  
-- Corporate Finance  
-- Product / Strategy Roles  
-
----
-
 # ⚗️ Continuous Stirred Tank Reactor (CSTR) Design & Simulation
 
 > Engineering a steady-state reactor model from first principles — bridging reaction kinetics, mass balance, and numerical analysis into a dynamic Excel-based simulation.
@@ -61,6 +63,7 @@ This project reflects strong **analytical thinking, financial acumen, and Excel 
 This project focuses on the **design and simulation of a Continuous Stirred Tank Reactor (CSTR)** using core chemical engineering principles.
 
 The model captures how **reaction kinetics, feed conditions, and reactor volume** interact to determine **conversion and performance**, enabling data-driven reactor design.
+<a href = "https://github.com/NJHacker54/Excel-Projects/blob/main/CSTR.xlsx">Project file</a>
 
 ---
 
@@ -120,6 +123,13 @@ Where:
 - ⚡ Effect of rate constant on reactor size  
 - 🔍 Sensitivity of system to feed conditions  
 - 📈 Performance curves for design optimization  
+
+![CSTR1](https://github.com/user-attachments/assets/384ef75b-dd0d-4c9b-8d85-ac172d8cdc53)
+![CSTR2](https://github.com/user-attachments/assets/3bdd153b-3abf-49af-9672-ea4925258a68)
+![CSTR3](https://github.com/user-attachments/assets/8f735e9e-c524-4043-a195-71d332ed4c60)
+
+
+
 
 ---
 
